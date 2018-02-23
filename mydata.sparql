@@ -1,0 +1,4 @@
+#+ summary: some of my data
+#+ endpoint: https://api.druid.datalegend.net/datasets/albertmeronyo/imf3/services/imf3/sparql
+
+SELECT * WHERE {?s ?p ?o}
